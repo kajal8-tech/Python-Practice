@@ -1,6 +1,6 @@
 tuple = (1,3,2,3,"kajal")
 
-no = tuple.count(3)
+no = tuple.count(3) # Counts how many times the element is repeted
 print(no)
 
 i= tuple.index("kajal") # find the index of the perticular element in the list 
